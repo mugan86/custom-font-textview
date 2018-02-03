@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomFontTextView</string>
+    <string name="Letters_for_Learners">Letters_for_Learners</string>
+    <string name="Letters_for_Learners_Dots">Letters_for_Learners_Dots</string>
+    <string name="Letters_for_Learners_Lined">Letters_for_Learners_Lined</string>
+    <string name="Letters_for_Learners_Lined_Dots">Letters_for_Learners_Lined_Dots</string>
+    <string name="Strawberry_Blossom">Strawberry_Blossom</string>
+    <string name="Ed_Wood_Movies">Ed_Wood_Movies</string>
+</resources>
