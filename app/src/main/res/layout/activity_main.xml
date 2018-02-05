@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="10sp"
+    android:orientation="vertical"
     android:gravity="center">
 
     <mugan86.custom.font.textview.CustomFontTextView
@@ -14,5 +15,13 @@
         android:layout_gravity="center"
         android:textSize="40sp"
         app:fontName="@string/Strawberry_Blossom" />
+    <mugan86.custom.font.textview.CustomFontTextView
+        android:id="@+id/customWithFontBold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_message"
+        android:layout_gravity="center"
+        android:textSize="40sp"
+        app:fontName="@string/Ed_Wood_Movies" />
 
 </LinearLayout>

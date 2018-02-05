@@ -5,13 +5,13 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion project.compileTargetSDK.toInteger()
     defaultConfig {
         applicationId "mugan86.custom.fonts.example"
-        minSdkVersion 14
-        targetSdkVersion 26
+        minSdkVersion project.minSdk.toInteger()
+        targetSdkVersion project.compileTargetSDK.toInteger()
         versionCode 1
-        versionName "1.0"
+        versionName project.library_version
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
