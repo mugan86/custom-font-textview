@@ -6,7 +6,7 @@ ext {
     // This configuration will result in:
     // compile '<groupId>:<artifactId>:<libVersion>'
     groupId = 'mugan86.custom.font.textview' // package name of the project
-    artifactId = "customfonttextview" // module name of the library
+    artifactId = "custom-font-textview" // module name of the library
     libVersion = project.library_version
 }
 version = libVersion

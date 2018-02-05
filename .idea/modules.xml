@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomFontTextView.iml" filepath="$PROJECT_DIR$/CustomFontTextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/customfonttextview/customfonttextview.iml" filepath="$PROJECT_DIR$/customfonttextview/customfonttextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-font-textview/customfonttextview.iml" filepath="$PROJECT_DIR$/custom-font-textview/customfonttextview.iml" />
     </modules>
   </component>
 </project>
