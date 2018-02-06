@@ -47,8 +47,14 @@ Now inside the widget we add the font that we want to show, for example "Strawbe
         app:fontName="@string/Strawberry_Blossom" />
  ```
 
-Result: (Pending to publish)
 
 ## Extensions in library:
 
-Comming soon.
+Add HTML. Using Kotlin Extensions, take **'customWithFontBold'** element id and to call addHtml(html content)"
+
+```sh
+customWithFontBold.addHtml("<u>Hola</u> Anartz!!")
+```   
+
+Result
+

@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        customWithFontBold.addHtml("<u>Hola Anartz!!</u>")
+        customWithFontBold.addHtml("<u>Hola</u> Anartz!!")
     }
 }
