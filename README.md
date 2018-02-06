@@ -1,4 +1,4 @@
-# Custom Font TextView
+# Custom Font TextView [ ![Download](https://api.bintray.com/packages/amugika/maven/custom-font-textview/images/download.svg) ](https://bintray.com/amugika/maven/custom-font-textview/_latestVersion)
 Library to add custom font very easy!!
 
 ## Instructions to use this library
