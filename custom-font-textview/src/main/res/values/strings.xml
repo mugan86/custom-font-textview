@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello_message">Hello Anartz!!</string>
-    <string name="default_the_light_font">TheLightFont</string>
+    <string name="default_the_light_font">TheLightFont.ttf</string>
+    <string name="Animal_Silence">Animal_Silence.otf</string>
+    <string name="Baby_Metal">Baby_Metal.ttf</string>
+
+    <string-array name="defaults_fonts">
+        <item>@string/default_the_light_font</item>
+        <item>@string/Animal_Silence</item>
+        <item>@string/Baby_Metal</item>
+    </string-array>
 </resources>
