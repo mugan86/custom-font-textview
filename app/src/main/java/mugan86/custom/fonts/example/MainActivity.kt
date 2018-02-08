@@ -14,7 +14,10 @@ class MainActivity : AppCompatActivity() {
         custom.concat(" Test")
 
         changeRandomFont.setOnClickListener {
+            // Use default fonts list
             custom.loadCustomFont(selectRandomFont(this), this)
+            // Use my custom fonts list to select random
+            customWithFontBold.loadCustomFont(selectRandomFont(this, R.array.my_custom_fonts), this)
         }
     }
 }
