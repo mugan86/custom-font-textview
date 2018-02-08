@@ -58,3 +58,5 @@ customWithFontBold.addHtml("<u>Hola</u> Anartz!!")
 
 Result
 
+![alt text](https://raw.githubusercontent.com/mugan86/custom-font-textview/master/screens/Screenshot_1517944103.png)
+
