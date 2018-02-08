@@ -14,7 +14,8 @@
         android:text="@string/hello_message"
         android:layout_gravity="center"
         android:textSize="40sp"
-        app:fontName="@string/Strawberry_Blossom" />
+        android:layout_marginBottom="10sp"
+        app:fontName="@string/Display_3d_OTF" />
     <mugan86.custom.font.textview.CustomFontTextView
         android:id="@+id/customWithFontBold"
         android:layout_width="wrap_content"
@@ -22,6 +23,13 @@
         android:text="@string/hello_message"
         android:layout_gravity="center"
         android:textSize="40sp"
+        android:layout_marginBottom="10sp"
         app:fontName="@string/Ed_Wood_Movies" />
+    <Button
+        android:text="@string/change_font_text"
+        android:id="@+id/changeRandomFont"
+        android:ems="8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
