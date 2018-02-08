@@ -3,7 +3,7 @@ Library to add custom font very easy!!
 
 ## Instructions to use this library
 
-Add library dependency inside our app/build.gradle file. Use "implementation" if use gradle >= 3.0.0 and "compile" when gradle < 3.0.0
+Add library dependency inside our app/build.gradle file. Use "implementation" if use gradle >= 3.0.0 and "compile" when gradle < 3.0.0. **x.x = latest version show in top of readme**
 
 ```sh
 apply plugin: 'com.android.application'
@@ -12,7 +12,7 @@ apply plugin: 'kotlin-android-extensions'
 ...
 dependencies {
     ...
-    implementation 'mugan86.custom.font.textview:custom-font-textview:1.0'
+    implementation 'mugan86.custom.font.textview:custom-font-textview:x.x'
 }
 ```
 
